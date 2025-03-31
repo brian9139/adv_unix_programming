@@ -1,0 +1,4 @@
+
+simply work with `make`
+
+For cross-compilatoin, use `make ARCH=x86_64 CROSS_COMPILE=x86_64-linux-gnu-` instead
