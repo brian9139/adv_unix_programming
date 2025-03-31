@@ -1,1 +1,0 @@
-savedcmd_/home/brian/Documents/adv_unix/LAB2/cryptomod/Module.symvers :=  scripts/mod/modpost -M        -o /home/brian/Documents/adv_unix/LAB2/cryptomod/Module.symvers -T /home/brian/Documents/adv_unix/LAB2/cryptomod/modules.order -i Module.symvers -e 
